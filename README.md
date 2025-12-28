@@ -6,7 +6,7 @@
 ---
 
 ### 🖼 Dashboard Preview
-![Sales & Customer Dashboard](./images/sales_customer_dashboard.png)
+![Sales & Customer Dashboard](./images/Sales-Customer-Dashboard.png)
 
 ---
 
