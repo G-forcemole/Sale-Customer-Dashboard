@@ -1,3 +1,23 @@
+## 📊 Sales & Customer Performance Dashboard (Tableau)
+
+### 🔗 Live Dashboard
+👉 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/gabriel.dos.santos6309/viz/Book1_17667727863160/SalesDashboard)
+
+---
+
+### 🖼 Dashboard Preview
+![Sales & Customer Dashboard](./images/sales_customer_dashboard.png)
+
+---
+
+### 📌 Overview
+This project features two interactive Tableau dashboards designed to help stakeholders analyze **sales performance**, **customer behavior**, and **year-over-year trends**.
+
+- Sales KPIs: Total Sales, Profit, Quantity
+- Customer KPIs: Customers, Orders, Sales per Customer
+- Dynamic year selection, drill-downs, and filters
+
+
 ## User Story | Sales Performance
 
 ### Introduction
